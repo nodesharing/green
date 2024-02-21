@@ -1,0 +1,11 @@
+{
+    "sendMail": false,
+    "mailConfig": {
+        "user":"",
+        "pass":"",
+        "mailto":"",
+        "smtpServer":"",
+        "smtpPort":"",
+        "smtpSecure":true
+    }
+}
