@@ -1,11 +1,9 @@
 {
-    "sendMail": false,
-    "mailConfig": {
-        "user":"",
-        "pass":"",
-        "mailto":"",
-        "smtpServer":"",
-        "smtpPort":"",
-        "smtpSecure":true
-    }
+    "token":"jLB6M9zB2Wv2yPDSCtgHCz2OJu0sKPa4OoYbhYNA",
+    "client_type":"2",
+    "device_name":"一加9RT",
+    "device_model":"MT2110",
+    "device_id":"326204402",
+    "sys_version":"系统版本",
+    "channel":"mihoyo"
 }
